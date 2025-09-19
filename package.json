@@ -1,0 +1,70 @@
+{
+  "name": "odoo-ai-generated",
+  "version": "1.0.0",
+  "description": "AI-generated applications and tools for Odoo ERP integration",
+  "main": "src/components/ModernSupplyChainOptimizer.jsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "npm start",
+    "lint": "eslint src/",
+    "format": "prettier --write src/"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "recharts": "^2.8.0",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "eslint": "^8.45.0",
+    "prettier": "^3.0.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "keywords": [
+    "odoo",
+    "erp",
+    "supply-chain",
+    "ai",
+    "react",
+    "analytics",
+    "hillspire",
+    "procurement",
+    "supplier-management",
+    "business-intelligence"
+  ],
+  "author": {
+    "name": "Hillspire",
+    "email": "engineering@hillspire.com",
+    "url": "https://hillspire.com"
+  },
+  "license": "PROPRIETARY",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jzhukovsky/Odoo-AI-Generated.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jzhukovsky/Odoo-AI-Generated/issues"
+  },
+  "homepage": "https://github.com/jzhukovsky/Odoo-AI-Generated#readme",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+}
